@@ -16,7 +16,7 @@ class Foo extends Bar implements Baz {
 }
 ```
 
-Describe what the purpose or function of the following components of this code in one or two sentences. Question 1 is completed for you as an example. Tell me what it is and what it does. Make at least 1 commit for each question (You will author at least 19 commits). You may use any resources in your notes, on the internet, or in the book. You may not ask any other students in the class for help or post online for help.
+In one or two sentences each, describe the purpose or function of the following components of this code. Question 1 is completed for you as an example. Tell me what it is and what it does. Make at least 1 commit for each question (You will author at least 19 commits). You may use any resources in your notes, on the internet, or in the book. You may not ask any other students in the class for help or post online for help.
 
 1. `class` - a keyword that defines a new class.
 
